@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@anurag70280/sdk": "^1.1.0",
+    "@openserv-labs/sdk": "^1.1.0",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "axios": "^1.8.3",
