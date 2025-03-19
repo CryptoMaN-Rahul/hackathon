@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { Agent } from "@anurag70280/sdk";
+import { Agent } from "@openserv-labs/sdk";
 import "dotenv/config";
 import axios from "axios";
 import { createHash } from "crypto";
