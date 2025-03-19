@@ -29,6 +29,9 @@ This project is a submission for the OpenServ Labs Agent Challenge. See how Bloc
 - **For Traders**: Get comprehensive token data, track liquidity, and analyze trading pairs
 - **For Security Researchers**: Analyze transaction patterns, detect anomalies, and assess contract risk
 
+## multi-agent workflow
+- ** Use it with General assistant (by openserv) to create a detailed report 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
