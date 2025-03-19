@@ -1,8 +1,7 @@
 # BlockchainInsight Agent
-
+( ACCESIBLE AT - https://openserv-hmgnbnhacthqdme2.uksouth-01.azurewebsites.net )
 An advanced on-chain data analytics agent built on OpenServ's platform providing comprehensive blockchain insights across multiple networks.
 
-![BlockchainInsight Banner](https://i.imgur.com/placeholder.jpg)
 
 ## 🏆 Competition Submission
 
