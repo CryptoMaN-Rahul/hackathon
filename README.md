@@ -185,7 +185,6 @@ For detailed parameter information, see the [API Documentation](docs/API.md).
 - [Judging Criteria Guide](./JUDGING_CRITERIA.md)
 - [API Documentation](docs/API.md)
 - [Architecture Overview](docs/ARCHITECTURE.md)
-- [Security Best Practices](docs/SECURITY.md)
 
 ## 📈 Project Roadmap
 
@@ -198,14 +197,6 @@ For detailed parameter information, see the [API Documentation](docs/API.md).
 - [ ] Historical data analysis
 - [ ] Predictive trend analysis
 
-## 🔧 Advanced Configuration
-
-See the [Advanced Configuration Guide](docs/ADVANCED_CONFIG.md) for details on:
-- Chain-specific settings
-- API provider fallbacks
-- Custom data sources
-- Rate limit handling
-- Cache configuration
 
 
 
