@@ -22,15 +22,88 @@ This project is a submission for the OpenServ Labs Agent Challenge. See how Bloc
 - **Token Information**: Comprehensive token data including price, liquidity, socials, and trading pairs
 - **DEX Analytics**: Deep analysis of trading pairs, volumes, and market health
 
-## 🎯 Use Cases
 
-- **For Investors**: Assess token distribution risk, analyze whale movements, and find yield opportunities
-- **For Developers**: Verify contract code, check for security vulnerabilities, and analyze protocol adoption
-- **For Traders**: Get comprehensive token data, track liquidity, and analyze trading pairs
-- **For Security Researchers**: Analyze transaction patterns, detect anomalies, and assess contract risk
 
 ## multi-agent workflow
-- ** Use it with General assistant (by openserv) to create a detailed report 
+- **Use it with General assistant (by openserv) to create a detailed report
+
+  ## Use Cases
+
+### For Investors
+- Assess token distribution risk
+- Analyze whale movements
+- Find yield opportunities across DeFi protocols
+
+### For Developers
+- Verify contract code
+- Check for security vulnerabilities
+- Analyze protocol adoption metrics
+
+### For Traders
+- Get comprehensive token data
+- Track liquidity across pools
+- Analyze trading pairs and market conditions
+
+### For Security Researchers
+- Analyze transaction patterns
+- Detect anomalies in blockchain activity
+- Assess contract risk and potential vulnerabilities
+
+## Example Queries
+
+### Smart Contract Security Analysis
+Ask the agent to analyze any smart contract by providing its address:
+```
+Analyze the security of smart contract 0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D. Identify critical vulnerabilities and provide a risk assessment.
+```
+
+### Wallet Transaction Analysis
+Request detailed analysis of wallet activity:
+```
+Examine transaction history for wallet 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 over the past month. Identify significant transactions, recurring patterns, and calculate total value transferred.
+```
+
+### Token Concentration Analysis
+Understand token distribution and whale concentration:
+```
+Analyze holder distribution for the EDGE token on Ethereum. Determine concentration risk level and how many wallets control the majority of tokens.
+```
+
+### DeFi Position Assessment
+Calculate impermanent loss and get strategy recommendations:
+```
+Calculate impermanent loss for an ETH/USDT liquidity position if ETH price changes by +25%. Provide a recommended strategy for minimizing this risk.
+```
+
+### Yield Optimization Recommendation
+Find the best yield opportunities based on your risk profile:
+```
+Based on a moderate risk profile, identify the best yield opportunities currently available across major DeFi protocols. Include expected APY and relevant risk factors.
+```
+
+### Historical Performance Comparison
+Compare blockchain metrics over time:
+```
+Compare transaction volume and price correlation between ETH and BNB over the last quarter. Determine which blockchain showed more consistent growth patterns.
+```
+
+### Cross-Chain Analysis
+Analyze bridge transactions and security:
+```
+Analyze recent bridge transactions between Ethereum and Arbitrum. Identify unusual patterns and potential security concerns in cross-chain transfers.
+```
+
+### Wallet Security Assessment
+Check wallet security and interaction history:
+```
+Perform a security analysis on wallet 0x742d35Cc6634C0532925a3b844Bc454e4438f44e. Has it interacted with flagged contracts or shown suspicious transaction patterns?
+```
+
+### Liquidity Pool Analysis
+Get insights on specific liquidity pools:
+```
+Analyze liquidity pool 0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8 on Ethereum. Provide depth, volume, and impermanent loss risk assessment.
+```
 
 ## 🚀 Getting Started
 
